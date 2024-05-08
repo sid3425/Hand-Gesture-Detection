@@ -14,6 +14,7 @@ Pip modules: opencv-python and mediapipe (tensorflow can also be used if you hav
 
 ### Tested on
 ✅ Fedora Workstation 40
+
 ✅ Microsoft Windows 11
 
 ### Licensing and other dedtails
