@@ -3,6 +3,7 @@ This program is a Python script that uses your device's webcam to detect hand ge
 
 ### Requirements
 Python >=3.11
+
 Pip modules: opencv-python and mediapipe (tensorflow can also be used if you have a dedicated graphics card)
 
 ### Screenshots
