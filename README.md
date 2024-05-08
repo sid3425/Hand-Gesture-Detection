@@ -24,5 +24,5 @@ Palm gesture
 
 ✅ Microsoft Windows 11
 
-### Licensing and other dedtails
-This code was made with my other teammates, Aditya Atre and Pallavi Patra as the project for our subject __18CSC305J- Artificial Intelligence__, and the code is open sourced under the GNU GPL License.
+### Licensing
+This code was made with my other teammates, Aditya Atre and Pallavi Patra as the project for our subject __18CSC305J- Artificial Intelligence__, and is open sourced under the GNU GPL License.
