@@ -9,9 +9,15 @@ Pip modules: opencv-python and mediapipe (tensorflow can also be used if you hav
 ### Screenshots
 ![Screenshot from 2024-05-08 08-41-39](https://github.com/sid3425/Hand-Gesture-Detection/assets/91660696/2f1df036-23e9-47ea-a2d5-3080983bacc1)
 
-![Screenshot from 2024-05-08 08-41-45](https://github.com/sid3425/Hand-Gesture-Detection/assets/91660696/3fc812ff-95d1-4223-be88-c5eb4cdb3d46)
+Hand raised gesture
 
-![Screenshot from 2024-05-08 08-41-58](https://github.com/sid3425/Hand-Gesture-Detection/assets/91660696/286da583-68da-4f7f-b390-b6cfc535a503)
+![Screenshot from 2024-05-08 09-00-17](https://github.com/sid3425/Hand-Gesture-Detection/assets/91660696/8898cd97-deb5-4c88-b7e4-28391c49fd78)
+
+Fist gesture
+
+![Screenshot from 2024-05-08 09-02-30](https://github.com/sid3425/Hand-Gesture-Detection/assets/91660696/8d40ea0e-e9c5-418e-91c6-5c509ba82a43)
+
+Palm gesture
 
 ### Tested on
 ✅ Fedora Workstation 40
